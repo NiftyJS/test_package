@@ -1,0 +1,19 @@
+{
+  "name": "test_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cong Nguyen",
+  "description": "Test package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiftyJS/test_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NiftyJS/test_package/issues"
+  },
+  "homepage": "https://github.com/NiftyJS/test_package#readme"
+}
